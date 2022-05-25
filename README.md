@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MatheusANAndrade.
 - 👀 I’m interested data science, artificial intelligence and web development.
 - 🌱 I’m currently learning HTML, CSS, JavaScript and Python.
-- 💞️ I’m looking to collaborate on artificial inteligence and back end projects.
+- 💞️ I’m looking to collaborate on artificial inteligence and back-end projects.
 - 📫 How to reach me: matheus.andrade.lp@gmail.com.
 
 <!---
