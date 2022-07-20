@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MatheusANAndrade.
+- 👋 Hi, I’m @m4theus4ndr4de.
 - 👀 I’m interested data science, artificial intelligence and web development.
 - 🌱 I’m currently learning HTML, CSS, JavaScript and Python.
 - 💞️ I’m looking to collaborate on artificial inteligence and back-end projects.
